@@ -54,8 +54,11 @@
 ![Static Badge](https://img.shields.io/badge/python-2.1.0-badgeContent?style=flat&logo=Flask_Caching&logoColor=%2381BECE&label=Flask_Caching&labelColor=%23945D87&color=%23EDD1EC)
 
 ___
+## Мой CodeWars
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turra777&label=Profile%20views&color=0e75b6&style=flat" alt="turra777" /> </p>
+<img src="https://www.codewars.com/users/TURRA7/badges/large" alt="Codewars Statistics" />
+
+___
 
 ## Связь со мной
 
