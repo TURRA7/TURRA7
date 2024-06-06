@@ -1,6 +1,6 @@
 # Привет, меня зовут Максим 👋
 
-Я Python разработчик с опытом работы в веб-разработке и управлении базами данных. Ищу возможности для удаленной работы, чтобы применить свои навыки и знания в создании высокопроизводительных и масштабируемых веб-приложений. При разработке, я стараюсь придерживаться парадигмы ООП, а так же принципов KISS, DRY, YAGNI и SOLID. 
+Я Python разработчик с опытом работы в веб-разработке и управлении базами данных. Ищу возможности для удаленной работы, чтобы применить свои навыки и знания в создании высокопроизводительных и масштабируемых веб-приложений. При разработке, я стараюсь придерживаться парадигмы ООП, а так же принципов KISS, DRY, YAGNI и SOLID.
 
 ## Мой основной стек
 ![Static Badge](https://img.shields.io/badge/python-3.12.2-badgeContent?style=flat&logo=Python&logoColor=yellow&label=Python&labelColor=blue&color=gray)
@@ -12,7 +12,6 @@
 ![Static Badge](https://img.shields.io/badge/build-2.45.1-brightgreen?logo=GIT&logoColor=red&label=GIT&labelColor=%2314471E&color=%23FE8535)
 ![Static Badge](https://img.shields.io/badge/build-Ubuntu-brightgreen?logo=Linux&logoColor=white&label=Linux&labelColor=%23100102&color=%23F7C815)
 ![Static Badge](https://img.shields.io/badge/build-7.0.0-brightgreen?logo=Docker&logoColor=white&label=Docker&labelColor=%2300718F&color=%23F8F9FB)
-![Static Badge](https://img.shields.io/badge/build-1.25.5-brightgreen?logo=Nginx&label=Nginx&labelColor=%23DDBEAA&color=%23BC0000)
 
 ## Технологии и инструменты, с которыми я работал
 
@@ -29,9 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/python-3.1.3-badgeContent?style=flat&logo=Jinja2&logoColor=black&label=Jinja2&labelColor=%23778FD2&color=%232A3759)
 ![Static Badge](https://img.shields.io/badge/build-4.21.0-brightgreen?logo=Selenium&logoColor=%23564C55&label=Selenium&labelColor=%23759242&color=%23AAABA8)
 ![Static Badge](https://img.shields.io/badge/build-CSS-brightgreen?logo=HTML&label=HTML&labelColor=%23B9848C&color=%23806491)
+![Static Badge](https://img.shields.io/badge/build-1.25.5-brightgreen?logo=Nginx&label=Nginx&labelColor=%23DDBEAA&color=%23BC0000)
 
-
-___
 ## Мой CodeWars
 
 <img src="https://www.codewars.com/users/TURRA7/badges/large" alt="Codewars Statistics" />
