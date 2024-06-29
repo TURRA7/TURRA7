@@ -4,6 +4,7 @@
 
 ## Мой основной стек
 ![Static Badge](https://img.shields.io/badge/python-3.12.2-badgeContent?style=flat&logo=Python&logoColor=yellow&label=Python&labelColor=blue&color=gray)
+![Static Badge](https://img.shields.io/badge/Fastapi-0.111.0-brightgreen?logo=fastapi&logoColor=%23009485&labelColor=gray&color=%23009485)
 ![Static Badge](https://img.shields.io/badge/python-8.1.1-badgeContent?style=flat&logo=Pytest&logoColor=white&label=Pytest&labelColor=%231C252C&color=%23F6F2F6)
 ![Static Badge](https://img.shields.io/badge/python-2.3.3-badgeContent?style=flat&logo=Flask&logoColor=%2381BECE&label=Flask&labelColor=%23cad4e0&color=gray)
 ![Static Badge](https://img.shields.io/badge/build-3.3.0-brightgreen?logo=Aiogram&label=Aiogram&labelColor=%236D8C00&color=%23F1BAA1)
