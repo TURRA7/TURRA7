@@ -7,15 +7,15 @@
 ![Static Badge](https://img.shields.io/badge/Fastapi-0.111.0-brightgreen?logo=fastapi&logoColor=%23009485&labelColor=gray&color=%23009485)
 ![Static Badge](https://img.shields.io/badge/python-2.3.3-badgeContent?style=flat&logo=Flask&logoColor=%2381BECE&label=Flask&labelColor=%23cad4e0&color=gray)
 ![Static Badge](https://img.shields.io/badge/build-2.0.30-brightgreen?logo=SQLAlchemy&logoColor=red&label=SQLAlchemy&labelColor=%23E7EAEF&color=%23217074)
-![Static Badge](https://img.shields.io/badge/build-3.3.0-brightgreen?logo=Aiogram&label=Aiogram&labelColor=%236D8C00&color=%23F1BAA1)
 ![Static Badge](https://img.shields.io/badge/build-16%2C3-brightgreen?logo=PostgreSQL&logoColor=red&label=PostgreSQL&labelColor=%23806491&color=%23FAD074)
 ![Static Badge](https://img.shields.io/badge/build-2.45.1-brightgreen?logo=GIT&logoColor=red&label=GIT&labelColor=%2314471E&color=%23FE8535)
 ![Static Badge](https://img.shields.io/badge/build-Ubuntu-brightgreen?logo=Linux&logoColor=white&label=Linux&labelColor=%23100102&color=%23F7C815)
 ![Static Badge](https://img.shields.io/badge/build-7.0.0-brightgreen?logo=Docker&logoColor=white&label=Docker&labelColor=%2300718F&color=%23F8F9FB)
-![Static Badge](https://img.shields.io/badge/python-8.1.1-badgeContent?style=flat&logo=Pytest&logoColor=white&label=Pytest&labelColor=%231C252C&color=%23F6F2F6)
 
 ## Технологии и инструменты, с которыми я работал
 
+![Static Badge](https://img.shields.io/badge/build-3.3.0-brightgreen?logo=Aiogram&label=Aiogram&labelColor=%236D8C00&color=%23F1BAA1)
+![Static Badge](https://img.shields.io/badge/python-8.1.1-badgeContent?style=flat&logo=Pytest&logoColor=white&label=Pytest&labelColor=%231C252C&color=%23F6F2F6)
 ![Static Badge](https://img.shields.io/badge/build-10.3.0-brightgreen?style=flat-square&logo=environs&label=environs&labelColor=%23BBC6C8&color=%23DDBEAA)
 ![Static Badge](https://img.shields.io/badge/build-2.9.9-brightgreen?style=flat-square&logo=psycopg2-binary&label=psycopg2-binary&labelColor=yellow&color=black)
 ![Static Badge](https://img.shields.io/badge/build-0.29.0-brightgreen?style=flat-square&logo=asyncpg&label=asyncpg&labelColor=%23469597&color=%23E5E3E4)
