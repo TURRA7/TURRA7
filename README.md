@@ -10,6 +10,8 @@
 ![Static Badge](https://img.shields.io/badge/build-2.45.1-brightgreen?logo=GIT&logoColor=red&label=GIT&labelColor=%2314471E&color=%23FE8535)
 ![Static Badge](https://img.shields.io/badge/build-Ubuntu-brightgreen?logo=Linux&logoColor=white&label=Linux&labelColor=%23100102&color=%23F7C815)
 ![Static Badge](https://img.shields.io/badge/build-7.0.0-brightgreen?logo=Docker&logoColor=white&label=Docker&labelColor=%2300718F&color=%23F8F9FB)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-8A2BE)
+
 
 ## Технологии и инструменты, с которыми я работал
 
